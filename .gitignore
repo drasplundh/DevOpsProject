@@ -26,10 +26,6 @@ yarn-error.log*
 # Dependency directories
 bower_components/
 
-# Compiled CSS
-*.css
-*.css.map
-
 # Temporary files
 *.tmp
 *.temp
